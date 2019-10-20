@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1570510752 source:f:\semester 5\game programming\minggu4\inventorysystem\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdlib.h>
+	<ctime>
+
+1570520754 source:g:\semester 5\game programming\minggu4\inventorysystem\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdlib.h>
+	<ctime>
+
