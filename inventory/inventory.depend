@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569296602 source:f:\semester 5\game programming\minggu1\inventory\main.cpp
+	<iostream>
+	<stdlib.h>
+
